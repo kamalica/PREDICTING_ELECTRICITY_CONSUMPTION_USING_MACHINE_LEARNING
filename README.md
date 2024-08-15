@@ -1,0 +1,2 @@
+# PREDICTING_ELECTRICITY_CONSUMPTION_USING_MACHINE_LEARNING
+Predicting the Electricity Consumption of each appliance using Machine Learning
